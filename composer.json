@@ -1,5 +1,5 @@
 {
-    "name": "babenkoivan/elastic-scout-driver",
+    "name": "akweidler/elastic-scout-driver",
     "description": "Elasticsearch driver for Laravel Scout",
     "keywords": [
         "scout",
@@ -15,6 +15,10 @@
         {
             "name": "Ivan Babenko",
             "email": "babenko.i.a@gmail.com"
+        },
+        {
+            "name": "Austin Weidler",
+            "email": "austin@brightspike.io"
         }
     ],
     "funding": [
@@ -40,7 +44,7 @@
     "require": {
         "php": "^7.2 || ^8.0",
         "babenkoivan/elastic-client": "^1.2",
-        "babenkoivan/elastic-adapter": "^1.13"
+        "akweidler/elastic-adapter": "^1.17"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
