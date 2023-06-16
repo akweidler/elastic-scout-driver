@@ -1,6 +1,7 @@
 {
     "name": "akweidler/elastic-scout-driver",
     "description": "Elasticsearch driver for Laravel Scout",
+    "version": "3.1.0",
     "keywords": [
         "scout",
         "elastic",
